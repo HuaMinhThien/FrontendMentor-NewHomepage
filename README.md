@@ -53,7 +53,6 @@ checkbox.addEventListener('change', function() {
 
 ## Author
 
-- Website - [Hứa Minh Thiện](https://www.your-site.com)
-- Frontend Mentor - [@HuaMinhThien](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- Website - [Hứa Minh Thiện](https://github.com/HuaMinhThien)
+- Frontend Mentor - [@HuaMinhThien](https://www.frontendmentor.io/profile/HuaMinhThien)
+- Facebook - [Minh Thiện](https://www.facebook.com/minh.thien.460014/)
