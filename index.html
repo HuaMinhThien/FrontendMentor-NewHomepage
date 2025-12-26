@@ -128,15 +128,13 @@
 
 <script>
 
-  // Chọn cái input checkbox bên trong thẻ .burger
   const checkbox = document.querySelector('#burger');
   const navPageMobile = document.querySelector('#nav-page-mobile');
 
-  // Lắng nghe sự kiện 'change' (thay đổi trạng thái check/uncheck)
   checkbox.addEventListener('change', function() {
       if (this.checked) {
           navPageMobile.classList.add('active');
-          console.log("Đã thêm class active"); // Kiểm tra ở tab Console
+          console.log("Đã thêm class active"); 
       } else {
           navPageMobile.classList.remove('active');
           console.log("Đã xóa class active");
