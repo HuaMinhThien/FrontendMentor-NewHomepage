@@ -13,8 +13,8 @@ Người dùng có thể thực hiện các thao tác sau:
 
 ### Links
 
-- **Solution URL**: [Thêm link GitHub của bạn tại đây]
-- **Live Site URL**: [Thêm link trang web đã chạy của bạn tại đây]
+- **Solution URL**: [https://github.com/HuaMinhThien/FrontendMentor-NewHomepage]
+- **Live Site URL**: [https://huaminhthien.github.io/FrontendMentor-NewHomepage/]
 
 ## My process
 
